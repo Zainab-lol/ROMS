@@ -1,5 +1,10 @@
-# ROMS
-DSA group project (2025893 , 2025906 , 2025385 , 2025078) 
+# ROMS - Restaurant Order Management System
+DSA group project 
+Zainab Fatima - 2025893
+Zarghoon Shaukat - 2025906
+Maraim Manan - 2025385 
+Ahmed Ali - 2025078
+
 # Restaurant Management System: Kitchen, Reports & Documentation
 
 Part of the group Data Structures project (CS221). This module covers the kitchen
